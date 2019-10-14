@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <question type="truefalse">
  <answer fraction="100">
     <text>true</text>
@@ -7,4 +8,6 @@
     <text>false</text>
     <feedback><text>Ooops!</text></feedback>
     pas test
+ </answer>
+test
  </answer>
